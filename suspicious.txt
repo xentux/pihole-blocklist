@@ -1,0 +1,14 @@
+# Title: xentux/suspicious
+#
+# List of various suspicious domains. Fraud, Spam, Ads.
+#
+# Start list
+# ========================================================
+0.0.0.0 nuubu.com
+0.0.0.0 frechespiele.de
+0.0.0.0 datematch.cl
+0.0.0.0 findedates.com
+0.0.0.0 flirt-lounge.com
+0.0.0.0 datingverein.com
+0.0.0.0 seniorinnentreffen.com
+0.0.0.0 redirect.seniorinnentreffen.com
